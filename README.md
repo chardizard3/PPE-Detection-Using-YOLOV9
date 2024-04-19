@@ -26,7 +26,9 @@ Dataset used is from a combination of images from roboflow
 </br>
 </br>
 </br>
-File used is named *FINAL.py*
+**FOLLOW THE NOTEBOOK FIRST**
+</br>
+**File used is named *FINAL.py***
 *** ***
 <details>
  <summary>Important Links</summary>
