@@ -36,7 +36,7 @@ Dataset used is from a combination of images from roboflow
  
  [Dataset](https://universe.roboflow.com/4d/ppe-4ngvv)
 </br>
- Weights: *will be uploaded soon*
+ [Weights](https://drive.google.com/file/d/1tq3nw2Jb4eC5PWi7sqLaXiKEO4NYJcxw/view?usp=share_link)
 </details>
 <details>
  <summary>Screenshots on the use of the application on a Raspberry Pi 3b+</summary>
